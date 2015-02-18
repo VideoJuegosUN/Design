@@ -16,11 +16,11 @@
 
 Slide:
 
-# Mi caso acerca de Stockfish
+# Diseño De Video Juegos
 
-Jean Pierre Charalambos
+Profesor:
 
-<img height="300" src="fig/logo.png">
+Ing. John Higuera
 
 Slide:
 
