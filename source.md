@@ -1,8 +1,8 @@
 <!-- configuracion de colores es opcional pero ultil-->
 <section id="themes">
-	<h2>Configuración de temas</h2>
+	<h2>Themes setting</h2>
 	<p>
-		Temas: <br>
+		Themes: <br>
 		<a href="?#/themes">Default</a> -
 		<a href="?theme=sky#/themes">Sky</a> -
 		<a href="?theme=beige#/themes">Beige</a> -
