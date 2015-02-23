@@ -16,7 +16,7 @@
 
 Slide:
 
-# Video game design
+# Video games design
 
 Teacher:
 
