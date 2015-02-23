@@ -29,7 +29,7 @@ Slide:
 
 ##VIDEO GAME
 
-* A videojuego is a computer program created
+* A video game is a computer program created
 expressly to amuse, based on the interaction
 between a person and a electronic device where
 run the game.<!-- .element: class="fragment" data-fragment-index="1"-->
