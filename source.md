@@ -1,8 +1,8 @@
 <!-- configuracion de colores es opcional pero ultil-->
 <section id="themes">
-	<h2>Themes setting</h2>
+	<h2>Configuración de temas</h2>
 	<p>
-		Themes: <br>
+		Temas: <br>
 		<a href="?#/themes">Default</a> -
 		<a href="?theme=sky#/themes">Sky</a> -
 		<a href="?theme=beige#/themes">Beige</a> -
@@ -16,42 +16,37 @@
 
 Slide:
 
-# Video games design
+# Diseño De Videojuegos
 
-Teacher:
+Profesor:
 
 Ing. John Higuera
 
+Slide:
 
-<font size=5>Note: Adaptation to the English language by the monitor of Course.</font>
+##VIDEOJUEGO
+
+* Un __videojuego__ es un programa informático, creado
+expresamente para divertir, basado en la interacción
+entre una persona y un aparato electrónico donde se
+ejecuta el videojuego. Estos recrean entornos virtuales
+en los cuales el jugador puede controlar a un personaje
+o cualquier otro elemento de dicho entorno, para
+conseguir uno o varios objetivos por medio de unas
+reglas determinadas.
+
+<img height="200" src="fig/consola1.bmp">
 
 Slide:
 
-##VIDEO GAME
-
-* A video game is a computer program created
-expressly to amuse, based on the interaction
-between a person and a electronic device where
-run the game.<!-- .element: class="fragment" data-fragment-index="1"-->
-
-* These recreate virtual environments
-in which the player can control a character
-or any other element of that enviroment to
-achieve one or more objectives through some
-determined rules.<!-- .element: class="fragment" data-fragment-index="2"-->
-
-<img height="200" src="fig/consola1.bmp"> <!-- .element: class="fragment" data-fragment-index="2"-->
-
-Slide:
-
-##VIDEO GAME HISTORY
+##HISTORIA DE LOS VIDEOJUEGOS
 ###PONG (TENNIS FOR TWO)
 
-* William Nighinbottham in 1958 created a game
-called Tennis for Two with using an oscilloscope of
-Laboratory, which consisted of intercepting
-a ball that crosses the screen by moving a
-line that was the racket.
+* William Nighinbottham en 1958 creó un juego 
+llamado Tenis Para Dos (Tennis for two) usando un 
+osciloscopio de laboratorio, consistía en interceptar 
+una bola que cruzaba la pantalla moviendo una 
+línea que hacía de paleta.
 
 <img height="200" src="fig/pong.bmp">
 
@@ -59,31 +54,29 @@ Slide:
 
 ###SPACEWAR
 
-* Steve Russell wrote Space War in 1961 at the Massachusetts Institute of Technology.<!-- .element: class="fragment" data-fragment-index="1"-->
+* Steve Russell escribió Space War en 1961 en el Instituto 
+Tecnológico de Massachusetts. El juego era para dos 
+jugadores, cada uno manejaba una nave espacial e 
+intentaba disparar a la otra, además había en la pantalla 
+una estrella cuya gravedad atraía a las naves hasta 
+destruirlas si las alcanzaba. El código de Spacewar llegó a 
+numerosas computadoras en otras universidades y es el 
+primer videojuego para ordenador de la historia.
 
-* The game was for two
-players, each one driving a spaceship and 
-tried to shoot the other, also was on the screen
-a star whose gravity attracted ships to destroy.<!-- .element: class="fragment" data-fragment-index="2"-->  
-
-* The code Spacewar reached
-numerous computers at other universities and is the
-first computer game in the history.<!-- .element: class="fragment" data-fragment-index="3"-->
-
-<img height="200" src="fig/spacewar.bmp"><!-- .element: class="fragment" data-fragment-index="4"-->
+<img height="200" src="fig/spacewar.bmp">
 
 Slide:
 
 ###NINTENDO
 
-* The Japanese company Nintendo was founded in 1889 by
-Fusajiro Yamauchi and even the 70s of XX century
-dedicated mainly to the manufacture of cards for games.<!-- .element: class="fragment" data-fragment-index="1"-->
+* La empresa japonesa Nintendo fué fundada en 1889 por 
+Fusajiro Yamauchi y hasta los años 70 del siglo XX se 
+dedicó sobre todo, a la fabricación de naipes para juegos.<!-- .element: class="fragment" data-fragment-index="1"-->
 
-* In 1977 bursts Nintendo console market
-household with COLOR TV GAME 6, which included 6
-games (all were variations on Pong), 4 colors and
-ability to play two players each other.<!-- .element: class="fragment" data-fragment-index="2"-->
+* En 1977 irrumpe Nintendo en el mercado de consolas <!-- .element: class="fragment" data-fragment-index="2"-->
+domésticas con la COLOR TV GAME 6, que incluía 6 
+juegos (todos eran variaciones de Pong), 4 colores y la 
+posibilidad de jugar dos jugadores entre sí.
 
 <img height="200" src="fig/nintendo.bmp"> <!-- .element: class="fragment" data-fragment-index="2"-->
 
@@ -91,13 +84,13 @@ Slide:
 
 ###NINTENDO (I)
 
-* In 1983 Nintendo opted for the world of consoles
-with the success of the Famicom console released by Nintendo
-and known in the West as NES (Nintendo
-Entertainment System).<!-- .element: class="fragment" data-fragment-index="1"-->
+* En 1983 Nintendo apostó por el mundo de las consolas 
+con el éxito de la Famicom, consola lanzada por Nintendo
+y conocida en occidente como NES (Nintendo
+Entertainment System)<!-- .element: class="fragment" data-fragment-index="1"-->
 
-* In 1985 appeared Super Mario bros which was a inflection point 
-in the development of electronic games.<!-- .element: class="fragment" data-fragment-index="2"-->
+* En 1985 apareció Super Mario bros que supuso un punto 
+de inflexión en el desarrollo de los juegos electrónicos.<!-- .element: class="fragment" data-fragment-index="2"-->
 
 <img height="200" src="fig/nintendo1.bmp"> <!-- .element: class="fragment" data-fragment-index="2"-->
 
@@ -105,13 +98,13 @@ Slide:
 
 ###NINTENDO (II)
 
-* In the early 90s consoles got a
-important technical leap through the competition of
-the  generation named "generation of 16-bit".<!-- .element: class="fragment" data-fragment-index="1"-->
+* A principios del los 90 las videoconsolas dieron un 
+importante salto técnico gracias a la competición de 
+la llamada "generación de 16 bits"<!-- .element: class="fragment" data-fragment-index="1"-->
 
-* Nintendo Super Famicom (whose name was
-changed in the West, becoming Super
-Entertainmet Nintendo System "SNES")<!-- .element: class="fragment" data-fragment-index="2"-->
+* Super Famicom de Nintendo (cuyo nombre fue 
+cambiado en occidente, pasando a ser Super
+Nintendo Entertainmet System "SNES")<!-- .element: class="fragment" data-fragment-index="2"-->
 
 <img height="200" src="fig/consola1.bmp"><!-- .element: class="fragment" data-fragment-index="2"-->
 
@@ -119,22 +112,22 @@ Slide:
 
 ###NINTENDO (III)
 
-* Rapidly in the decade of the 90s came to
-consoles "generation 64-bit": Creating
-Nintendo the Nintendo 64 console.<!-- .element: class="fragment" data-fragment-index="1"-->
+* Rápidamente en la misma década de los 90 llego a 
+las consolas la "generación de 64 bits“ : Creando 
+Nintendo el Nintendo 64.<!-- .element: class="fragment" data-fragment-index="1"-->
 
 <img height="200" src="fig/nintendo64.bmp"><!-- .element: class="fragment" data-fragment-index="1"-->
 
-* Nearly starting the new century Nintendo launched the
-successor to the Nintendo 64, the Gamecube.<!-- .element: class="fragment" data-fragment-index="2"-->
+* Casi iniciando el nuevo siglo Nintendo lanzó al 
+sucesor del Nintendo 64, el Gamecube.<!-- .element: class="fragment" data-fragment-index="2"-->
 
 Slide:
 
 ###NINTENDO (IV)
 
-* The year 2006 marks the continuation of launches
-new generation, Nintendo Wii proposes (before
-known as Revolution).
+* 2006 marca la continuación de lanzamientos de la 
+nueva generación, Nintendo propone la Wii (antes 
+conocido como Revolution)
 
 <img height="200" src="fig/nintendo4.bmp">
 
@@ -143,15 +136,15 @@ Slide:
 
 ###ATARI
 
-* In 1972 Nolan Bushnell founded in the United States, along with
-Ted Dabney, the company Syzygy, which is rapidly
-renamed Atari. That same year exhibit a
-coin arcade machine with the game Pong, version
+* En 1972 Nolan Bushnell funda en Estados Unidos, junto con
+Ted Dabney, la empresa Syzygy, que rápidamente es
+renombrada como Atari. Ese mismo año presentan una
+máquina recreativa de monedas con el juego Pong, versión de
 Tennis For Two.<!-- .element: class="fragment" data-fragment-index="1"-->
 
-* In the 80s Atari word came to be used as
-synonymous with video games console, even to refer to
-products from other brands.<!-- .element: class="fragment" data-fragment-index="2"-->
+* En los años 80 la palabra Atari llegó a ser usada como
+sinónimo de consola de videojuegos, incluso para referirse a
+productos de otras marcas.<!-- .element: class="fragment" data-fragment-index="2"-->
 
 <img height="200" src="fig/atari1.bmp"><!-- .element: class="fragment" data-fragment-index="2"--><img height="200" src="fig/atari2.bmp"><!-- .element: class="fragment" data-fragment-index="2"-->
 
@@ -159,13 +152,17 @@ Slide:
 
 ###SEGA(I)
 
-* Service Games was an American company  that in the 40s  marketed primitive machines currencies based on mechanical systems and in the 50s was moved to Japan. In 1965 they merged with Rosen Enterprises to create SEGA.<!-- .element: class="fragment" data-fragment-index="1"-->
+* Service Games era una empresa americana que en los años 40 se 
+dedicaba a la comercialización de primitivas máquinas de monedas 
+basadas en sistemas mecánicos y que en la década de los 50 fué
+trasladada a Japón. En 1965 se fusionaron con Rosen Enterprises
+para crear SEGA.<!-- .element: class="fragment" data-fragment-index="1"-->
 
-* In 1984 after the departure of NES, SEGA launches the Mark III<!-- .element: class="fragment" data-fragment-index="2"-->
+* En 1984 ante la salida de NES, SEGA lanza al mercado la Mark III<!-- .element: class="fragment" data-fragment-index="2"-->
 
-* In 1988  SEGA launches Megadrive console 16 bits,
-had a better fate than the first console, but not enough
-to overcome the SuperNintendo.<!-- .element: class="fragment" data-fragment-index="3"-->
+* En 1988 SEGA lanza al mercado Megadrive una consola de 16 bits, 
+tuvo un mejor suerte que la primera consola, pero no lo suficiente 
+para superar a la SuperNintendo<!-- .element: class="fragment" data-fragment-index="3"-->
 
 <img height="200" src="fig/sega1.bmp"><!-- .element: class="fragment" data-fragment-index="3"-->
 
@@ -173,13 +170,14 @@ Slide:
 
 ###SEGA(II)
 
-* In 1998 he appeared in Japan the Dreamcast, which come to the West in 1999 and would start the "generation
-128 bits". With a very poor success.<!-- .element: class="fragment" data-fragment-index="1"-->
+* En 1998 apareció en Japón la Dreamcast, la cual llegaría a 
+occidente en 1999 y daría comienzo a la "generación de 
+los 128 bits". Teniendo un éxito muy pobre.<!-- .element: class="fragment" data-fragment-index="1"-->
 
-* In 2002 Sega determines that could not compete
-especially against Sony's new machine and announcement
-would discontinue the Dreamcast and no longer produce
-hardware, becoming only developer
+* En 2002 Sega se dio cuenta de que no podría competir 
+especialmente contra la nueva máquina de Sony y anuncio 
+que descontinuaría el Dreamcast y que ya no produciría 
+hardware, convirtiéndose solo en desarrolladora de 
 software.<!-- .element: class="fragment" data-fragment-index="2"-->
 
 <img height="200" src="fig/sega2.bmp"><!-- .element: class="fragment" data-fragment-index="2"-->
@@ -188,16 +186,15 @@ Slide:
 
 ###SONY (I)
 
-* In the mid-90 Sony reappear after a project
-started with Nintendo (SNES called PlayStation)
-consisting of a peripheral for SNES with CD.
-At the end Nintendo Sony rejected the proposal, since
-Sega had developed something similar without success, and
-Sony launched PlayStation  independently.<!-- .element: class="fragment" data-fragment-index="1"-->
+* A mediados de los 90 Sony apareció tras un proyecto 
+iniciado con Nintendo (denominado SNES PlayStation), 
+que consistía en un periférico para SNES con lector de CD. 
+Al final Nintendo rechazó la propuesta de Sony, puesto que 
+Sega había desarrollado algo parecido sin tener éxito, y 
+Sony lanzó independientemente PlayStation.<!-- .element: class="fragment" data-fragment-index="1"-->
 
 
-* In 2000 Sony launches the anticipatory
-Play Station 2.<!-- .element: class="fragment" data-fragment-index="2"-->
+* En el 2000 Sony lanzó el anticipado Play Station 2<!-- .element: class="fragment" data-fragment-index="2"-->
 
 
 <img height="200" src="fig/sony1.bmp"><!-- .element: class="fragment" data-fragment-index="2"-->
@@ -207,9 +204,9 @@ Slide:
 
 ###SONY (II)
 
-* 2006 marks the continuation of launches
-new generation of consoles. Sony with its
-PlayStation 3 and PS4.
+* 2006 marca la continuación de lanzamientos de la 
+nueva generación de consolas. Sony con su 
+PlayStation 3 y PS4.
 
 <img height="200" src="fig/sony2.bmp"> 
 
@@ -217,12 +214,12 @@ Slide:
 
 ###MICROSOFT
 
-* In 2001 Microsoft enters the industry of consoles
-creating the Xbox.<!-- .element: class="fragment" data-fragment-index="1"-->
+* En 2001 Microsoft entra a la industria de las 
+consolas creando el Xbox.<!-- .element: class="fragment" data-fragment-index="1"-->
 
-* The end of 2005 saw the launch of the Xbox 360, the
-first console of the seventh generation of 
-video games consoles.<!-- .element: class="fragment" data-fragment-index="2"-->
+* El fin de 2005 vio el lanzamiento del Xbox 360, la 
+primera de la séptima generación de consolas de 
+videojuegos.<!-- .element: class="fragment" data-fragment-index="2"-->
 
 <img height="200" src="fig/microsoft1.bmp"><!-- .element: class="fragment" data-fragment-index="2"--> <img height="200" src="fig/microsoft2.bmp"><!-- .element: class="fragment" data-fragment-index="2"-->
 
@@ -238,7 +235,7 @@ Bits 512 (PS4 y XBox One)
 
 Slide:
 
-###Nintendo and others (III)
+###Nintendo y Demas (III)
 
 WiiU (2011)<!-- .element: class="fragment" data-fragment-index="1"--> 
 
@@ -251,15 +248,14 @@ The Ouya (2012 )<!-- .element: class="fragment" data-fragment-index="2"-->
 
 Slide:
 
-###Game stores
+###Tiendas Juegos
 
-1999 - Dream Cast Online store with 56k 
+1999 - Tienda en linea Dream Cast con 56k
 
-2001 - Launch iTunes
+2001 - Lanzan iTunes
 
-2002 -  LIVE Store of Microsoft.
+2002 - La tienda LIVE de Microsoft.
 
-2006 - November, Wii store.
+2006 - Noviembre, Tienda Wii.
 
-2007 - March, PlayStation Store.
-
+2007 - Marzo, Tienda PlayStation.
