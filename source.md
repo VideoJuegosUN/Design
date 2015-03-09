@@ -16,7 +16,7 @@
 
 Slide:
 
-# Diseño De Videojuegos
+# Diseño De Videojuegos  
 
 Profesor:
 
