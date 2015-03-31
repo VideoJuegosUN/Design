@@ -16,7 +16,7 @@
 
 Slide:
 
-# Diseño De Videojuegos  
+# Historia de los Videojuegos  
 
 Profesor:
 
